@@ -1,0 +1,36 @@
+[
+  {
+    "featureType": "poi",
+    "elementType": "labels",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },
+  {
+    "featureType": "poi.business",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "elementType": "labels",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },
+  {
+  "featureType": "administrative",
+  "elementType": "labels",
+  "stylers": [
+    { "visibility": "simplified" }
+  ]
+},
+{
+  "featureType": "road",
+  "elementType": "labels",
+  "stylers": [
+    { "visibility": "simplified" }
+  ]
+}
+]
