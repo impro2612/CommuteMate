@@ -12,7 +12,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:wakelock_plus/wakelock_plus.dart';
 
-const String googleApiKey = 'AIzaSyAuvE5VEIPwbsRGiq6cr0qr8QW8fQCRGCw';
+const String googleApiKey = 'API_key';
 
 void main() {
   runApp(const MyApp());
